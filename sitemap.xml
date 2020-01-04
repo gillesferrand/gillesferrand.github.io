@@ -3,7 +3,122 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://gillesferrand.github.io/authors/admin/</loc>
+    <loc>https://gillesferrand.github.io/</loc>
+    <lastmod>2019-08-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gillesferrand.github.io/project/</loc>
+    <lastmod>2019-08-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gillesferrand.github.io/tags/projects/</loc>
+    <lastmod>2019-08-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gillesferrand.github.io/project/sn2snr/</loc>
+    <lastmod>2019-08-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gillesferrand.github.io/tags/</loc>
+    <lastmod>2019-08-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gillesferrand.github.io/talk/lijiang/</loc>
+    <lastmod>2019-08-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gillesferrand.github.io/tags/pro/</loc>
+    <lastmod>2019-08-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gillesferrand.github.io/talk/</loc>
+    <lastmod>2019-08-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gillesferrand.github.io/talk/remu/</loc>
+    <lastmod>2019-08-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gillesferrand.github.io/talk/xmm/</loc>
+    <lastmod>2019-06-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gillesferrand.github.io/project/vr/</loc>
+    <lastmod>2018-04-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gillesferrand.github.io/talk/ithems/</loc>
+    <lastmod>2018-04-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gillesferrand.github.io/talk/abblworkshop/</loc>
+    <lastmod>2017-11-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gillesferrand.github.io/project/cirada/</loc>
+    <lastmod>2017-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gillesferrand.github.io/tags/collab/</loc>
+    <lastmod>2017-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gillesferrand.github.io/talk/snrodyssey/</loc>
+    <lastmod>2016-06-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gillesferrand.github.io/project/cta/</loc>
+    <lastmod>2015-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gillesferrand.github.io/talk/aceartinc/</loc>
+    <lastmod>2015-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gillesferrand.github.io/tags/pub/</loc>
+    <lastmod>2015-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gillesferrand.github.io/talk/astronight/</loc>
+    <lastmod>2014-11-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gillesferrand.github.io/project/accelrsn/</loc>
+    <lastmod>2012-11-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gillesferrand.github.io/project/snrcat/</loc>
+    <lastmod>2012-02-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gillesferrand.github.io/talk/rasc/</loc>
+    <lastmod>2011-08-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gillesferrand.github.io/authors/gilles/</loc>
   </url>
   
   <url>
@@ -12,10 +127,6 @@
   
   <url>
     <loc>https://gillesferrand.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://gillesferrand.github.io/</loc>
   </url>
   
   <url>
@@ -28,14 +139,6 @@
   
   <url>
     <loc>https://gillesferrand.github.io/publication/</loc>
-  </url>
-  
-  <url>
-    <loc>https://gillesferrand.github.io/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>https://gillesferrand.github.io/tags/</loc>
   </url>
   
 </urlset>

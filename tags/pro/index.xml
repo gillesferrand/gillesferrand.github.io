@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pro | Gilles Ferrand, astrophysicist</title>
+    <link>https://gillesferrand.github.io/tags/pro/</link>
+      <atom:link href="https://gillesferrand.github.io/tags/pro/index.xml" rel="self" type="application/rss+xml" />
+    <description>pro</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©Gilles Ferrand 2020</copyright><lastBuildDate>Tue, 06 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://gillesferrand.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>pro</title>
+      <link>https://gillesferrand.github.io/tags/pro/</link>
+    </image>
+    
+    <item>
+      <title>&#34;From the thermonuclear supernova to the supernova remnant&#34;</title>
+      <link>https://gillesferrand.github.io/talk/lijiang/</link>
+      <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://gillesferrand.github.io/talk/lijiang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>&#34;From the supernova to the supernova remnant&#34;</title>
+      <link>https://gillesferrand.github.io/talk/remu/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://gillesferrand.github.io/talk/remu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>&#34;Modelling and simulations of supernova remnants&#34;</title>
+      <link>https://gillesferrand.github.io/talk/xmm/</link>
+      <pubDate>Wed, 12 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://gillesferrand.github.io/talk/xmm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>&#34;Using Virtual Reality to communicate the science of supernovae and their remnants&#34;</title>
+      <link>https://gillesferrand.github.io/talk/ithems/</link>
+      <pubDate>Fri, 13 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://gillesferrand.github.io/talk/ithems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>&#34;3D simulations of young supernova remnants&#34;</title>
+      <link>https://gillesferrand.github.io/talk/abblworkshop/</link>
+      <pubDate>Tue, 07 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://gillesferrand.github.io/talk/abblworkshop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>&#34;3D simulations of young supernova remnants with efficient particle acceleration: thermo-nuclear vs. core-collapse&#34;</title>
+      <link>https://gillesferrand.github.io/talk/snrodyssey/</link>
+      <pubDate>Thu, 09 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://gillesferrand.github.io/talk/snrodyssey/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

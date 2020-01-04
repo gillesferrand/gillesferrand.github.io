@@ -14,11 +14,14 @@
     
     <item>
       <title></title>
-      <link>https://gillesferrand.github.io/authors/admin/</link>
+      <link>https://gillesferrand.github.io/authors/gilles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://gillesferrand.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.&lt;/p&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;
+      <guid>https://gillesferrand.github.io/authors/gilles/</guid>
+      <description>&lt;p&gt;Hello/Bonjour, my name is Gilles Ferrand /ʒil feʁɑ̃/, I am a French and Canadian astrophysicist currently working in Japan.&lt;br&gt;
+I have been studying the acceleration of particles by shock waves in supernova remnants, which are believed to be the main production sites of Galactic cosmic-rays (isolated or inside superbubbles). My work is mostly based on numerical simulations, that allow me to understand the complex interplay between the shock and the particles, and to predict the multi-wavelength emission that we observe from both. To help making comparisons with observations, I also made the first complete census of X-ray and gamma-ray observations of Galactic remnants. I am currently working on making the link between the modeling of supernova explosions and the modeling of supernova remnants, with a focus on the 3D morphology.&lt;br&gt;
+I have also a keen interest in scientific visualization, I have been exploring techniques for immersive visualization of 3D data cubes, with applications to both simulations and radio data.&lt;br&gt;
+&lt;br&gt;
+&lt;a href=&#34;https://www.dropbox.com/s/eh3tctclg12aqlv/FERRAND_2019-12_CV.pdf?dl=0&#34;&gt;Full curriculum vitae as PDF&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
