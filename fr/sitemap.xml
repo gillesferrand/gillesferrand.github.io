@@ -3,8 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://gillesferrand.github.io/fr/talk/heidelberg/</loc>
+    <lastmod>2019-12-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gillesferrand.github.io/talk/heidelberg/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://gillesferrand.github.io/fr/talk/heidelberg/"
+                />
+  </url>
+  
+  <url>
     <loc>https://gillesferrand.github.io/fr/</loc>
-    <lastmod>2019-08-30T00:00:00+00:00</lastmod>
+    <lastmod>2019-12-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -14,6 +29,51 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://gillesferrand.github.io/fr/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gillesferrand.github.io/fr/tags/pro/</loc>
+    <lastmod>2019-12-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gillesferrand.github.io/tags/pro/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://gillesferrand.github.io/fr/tags/pro/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gillesferrand.github.io/fr/talk/</loc>
+    <lastmod>2019-12-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gillesferrand.github.io/talk/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://gillesferrand.github.io/fr/talk/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gillesferrand.github.io/fr/tags/</loc>
+    <lastmod>2019-12-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gillesferrand.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://gillesferrand.github.io/fr/tags/"
                 />
   </url>
   
@@ -63,21 +123,6 @@
   </url>
   
   <url>
-    <loc>https://gillesferrand.github.io/fr/tags/</loc>
-    <lastmod>2019-08-30T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gillesferrand.github.io/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://gillesferrand.github.io/fr/tags/"
-                />
-  </url>
-  
-  <url>
     <loc>https://gillesferrand.github.io/fr/talk/lijiang/</loc>
     <lastmod>2019-08-06T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -89,36 +134,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://gillesferrand.github.io/fr/talk/lijiang/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://gillesferrand.github.io/fr/tags/pro/</loc>
-    <lastmod>2019-08-06T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gillesferrand.github.io/tags/pro/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://gillesferrand.github.io/fr/tags/pro/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://gillesferrand.github.io/fr/talk/</loc>
-    <lastmod>2019-08-06T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gillesferrand.github.io/talk/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://gillesferrand.github.io/fr/talk/"
                 />
   </url>
   
