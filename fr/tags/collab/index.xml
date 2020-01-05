@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>collab | Gilles Ferrand, astrophysicien</title>
+    <link>https://gillesferrand.github.io/fr/tags/collab/</link>
+      <atom:link href="https://gillesferrand.github.io/fr/tags/collab/index.xml" rel="self" type="application/rss+xml" />
+    <description>collab</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr-fr</language><copyright>©Gilles Ferrand 2020</copyright><lastBuildDate>Fri, 01 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://gillesferrand.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>collab</title>
+      <link>https://gillesferrand.github.io/fr/tags/collab/</link>
+    </image>
+    
+    <item>
+      <title>CIRADA</title>
+      <link>https://gillesferrand.github.io/fr/project/cirada/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://gillesferrand.github.io/fr/project/cirada/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cherenkov Telescope Array</title>
+      <link>https://gillesferrand.github.io/fr/project/cta/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://gillesferrand.github.io/fr/project/cta/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

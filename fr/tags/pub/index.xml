@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pub | Gilles Ferrand, astrophysicien</title>
+    <link>https://gillesferrand.github.io/fr/tags/pub/</link>
+      <atom:link href="https://gillesferrand.github.io/fr/tags/pub/index.xml" rel="self" type="application/rss+xml" />
+    <description>pub</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr-fr</language><copyright>©Gilles Ferrand 2020</copyright><lastBuildDate>Thu, 05 Feb 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://gillesferrand.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>pub</title>
+      <link>https://gillesferrand.github.io/fr/tags/pub/</link>
+    </image>
+    
+    <item>
+      <title>&#34;Art &amp; Astronomy: intersections and oppositions&#34;</title>
+      <link>https://gillesferrand.github.io/fr/talk/aceartinc/</link>
+      <pubDate>Thu, 05 Feb 2015 00:00:00 +0000</pubDate>
+      <guid>https://gillesferrand.github.io/fr/talk/aceartinc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>&#34;Astrophotography: basics of imaging the night sky&#34;</title>
+      <link>https://gillesferrand.github.io/fr/talk/astronight/</link>
+      <pubDate>Thu, 20 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>https://gillesferrand.github.io/fr/talk/astronight/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>&#34;Supernova Remnants&#34;</title>
+      <link>https://gillesferrand.github.io/fr/talk/rasc/</link>
+      <pubDate>Sun, 07 Aug 2011 00:00:00 +0000</pubDate>
+      <guid>https://gillesferrand.github.io/fr/talk/rasc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
