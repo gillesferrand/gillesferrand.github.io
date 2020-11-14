@@ -12,37 +12,5 @@
       <link>https://gillesferrand.github.io/tags/</link>
     </image>
     
-    <item>
-      <title>pro</title>
-      <link>https://gillesferrand.github.io/tags/pro/</link>
-      <pubDate>Mon, 16 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://gillesferrand.github.io/tags/pro/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>projects</title>
-      <link>https://gillesferrand.github.io/tags/projects/</link>
-      <pubDate>Fri, 30 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://gillesferrand.github.io/tags/projects/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>collab</title>
-      <link>https://gillesferrand.github.io/tags/collab/</link>
-      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>https://gillesferrand.github.io/tags/collab/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>pub</title>
-      <link>https://gillesferrand.github.io/tags/pub/</link>
-      <pubDate>Thu, 05 Feb 2015 00:00:00 +0000</pubDate>
-      <guid>https://gillesferrand.github.io/tags/pub/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>
