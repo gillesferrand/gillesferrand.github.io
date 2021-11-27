@@ -3,23 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://gillesferrand.github.io/fr/talk/resceu/</loc>
-    <lastmod>2020-11-26T00:00:00+00:00</lastmod>
+    <loc>https://gillesferrand.github.io/fr/talk/casca/</loc>
+    <lastmod>2021-05-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gillesferrand.github.io/talk/resceu/"
+                href="https://gillesferrand.github.io/talk/casca/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://gillesferrand.github.io/fr/talk/resceu/"
+                href="https://gillesferrand.github.io/fr/talk/casca/"
                 />
   </url>
   
   <url>
     <loc>https://gillesferrand.github.io/fr/</loc>
-    <lastmod>2020-11-26T00:00:00+00:00</lastmod>
+    <lastmod>2021-05-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -34,7 +34,7 @@
   
   <url>
     <loc>https://gillesferrand.github.io/fr/tags/pro/</loc>
-    <lastmod>2020-11-26T00:00:00+00:00</lastmod>
+    <lastmod>2021-05-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -49,7 +49,7 @@
   
   <url>
     <loc>https://gillesferrand.github.io/fr/talk/</loc>
-    <lastmod>2020-11-26T00:00:00+00:00</lastmod>
+    <lastmod>2021-05-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -64,7 +64,7 @@
   
   <url>
     <loc>https://gillesferrand.github.io/fr/tags/</loc>
-    <lastmod>2020-11-26T00:00:00+00:00</lastmod>
+    <lastmod>2021-05-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -74,6 +74,36 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://gillesferrand.github.io/fr/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gillesferrand.github.io/fr/talk/umpa/</loc>
+    <lastmod>2021-04-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gillesferrand.github.io/talk/umpa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://gillesferrand.github.io/fr/talk/umpa/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gillesferrand.github.io/fr/talk/resceu/</loc>
+    <lastmod>2020-11-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gillesferrand.github.io/talk/resceu/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://gillesferrand.github.io/fr/talk/resceu/"
                 />
   </url>
   
