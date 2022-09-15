@@ -5,12 +5,36 @@
     <link>https://gillesferrand.github.io/fr/</link>
       <atom:link href="https://gillesferrand.github.io/fr/index.xml" rel="self" type="application/rss+xml" />
     <description>Gilles Ferrand, astrophysicien</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr-fr</language><copyright>©Gilles Ferrand 2021</copyright><lastBuildDate>Mon, 10 May 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr-fr</language><copyright>©Gilles Ferrand 2022</copyright><lastBuildDate>Mon, 05 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://gillesferrand.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://gillesferrand.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Gilles Ferrand, astrophysicien</title>
       <link>https://gillesferrand.github.io/fr/</link>
     </image>
+    
+    <item>
+      <title>&#34;From the thermonuclear supernova to the supernova remnant&#34;</title>
+      <link>https://gillesferrand.github.io/fr/talk/valencia/</link>
+      <pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://gillesferrand.github.io/fr/talk/valencia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>&#34;A double detonation in a double degenerate system, from Type Ia supernova to supernova remnant&#34;</title>
+      <link>https://gillesferrand.github.io/fr/talk/chandra/</link>
+      <pubDate>Wed, 17 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://gillesferrand.github.io/fr/talk/chandra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>&#34;3D visualization of astronomy data using virtual reality&#34;</title>
+      <link>https://gillesferrand.github.io/fr/talk/nufact/</link>
+      <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://gillesferrand.github.io/fr/talk/nufact/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>&#34;From the thermonuclear supernova to the supernova remnant&#34;</title>
@@ -61,14 +85,6 @@
     </item>
     
     <item>
-      <title>&#34;From the supernova to the supernova remnant&#34;</title>
-      <link>https://gillesferrand.github.io/fr/talk/remu/</link>
-      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://gillesferrand.github.io/fr/talk/remu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>&#34;Modelling and simulations of supernova remnants&#34;</title>
       <link>https://gillesferrand.github.io/fr/talk/xmm/</link>
       <pubDate>Wed, 12 Jun 2019 00:00:00 +0000</pubDate>
@@ -81,14 +97,6 @@
       <link>https://gillesferrand.github.io/fr/project/vr/</link>
       <pubDate>Sat, 21 Apr 2018 00:00:00 +0000</pubDate>
       <guid>https://gillesferrand.github.io/fr/project/vr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>&#34;Using Virtual Reality to communicate the science of supernovae and their remnants&#34;</title>
-      <link>https://gillesferrand.github.io/fr/talk/ithems/</link>
-      <pubDate>Fri, 13 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>https://gillesferrand.github.io/fr/talk/ithems/</guid>
       <description></description>
     </item>
     
