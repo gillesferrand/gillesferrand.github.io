@@ -2,81 +2,94 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://gillesferrand.github.io/fr/talk/valencia/</loc>
-    <lastmod>2022-09-05T00:00:00+00:00</lastmod>
+    <loc>https://gillesferrand.github.io/fr/talk/resceu/</loc>
+    <lastmod>2023-05-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://gillesferrand.github.io/talk/valencia/"
+                hreflang="en-us"
+                href="https://gillesferrand.github.io/talk/resceu/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://gillesferrand.github.io/fr/talk/valencia/"
+                hreflang="fr-fr"
+                href="https://gillesferrand.github.io/fr/talk/resceu/"
                 />
   </url><url>
     <loc>https://gillesferrand.github.io/fr/</loc>
-    <lastmod>2022-09-05T00:00:00+00:00</lastmod>
+    <lastmod>2023-05-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-us"
                 href="https://gillesferrand.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
+                hreflang="fr-fr"
                 href="https://gillesferrand.github.io/fr/"
                 />
   </url><url>
     <loc>https://gillesferrand.github.io/fr/tags/pro/</loc>
-    <lastmod>2022-09-05T00:00:00+00:00</lastmod>
+    <lastmod>2023-05-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-us"
                 href="https://gillesferrand.github.io/tags/pro/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
+                hreflang="fr-fr"
                 href="https://gillesferrand.github.io/fr/tags/pro/"
                 />
   </url><url>
     <loc>https://gillesferrand.github.io/fr/talk/</loc>
-    <lastmod>2022-09-05T00:00:00+00:00</lastmod>
+    <lastmod>2023-05-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-us"
                 href="https://gillesferrand.github.io/talk/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
+                hreflang="fr-fr"
                 href="https://gillesferrand.github.io/fr/talk/"
                 />
   </url><url>
     <loc>https://gillesferrand.github.io/fr/tags/</loc>
-    <lastmod>2022-09-05T00:00:00+00:00</lastmod>
+    <lastmod>2023-05-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-us"
                 href="https://gillesferrand.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
+                hreflang="fr-fr"
                 href="https://gillesferrand.github.io/fr/tags/"
+                />
+  </url><url>
+    <loc>https://gillesferrand.github.io/fr/talk/valencia/</loc>
+    <lastmod>2022-09-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://gillesferrand.github.io/talk/valencia/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-fr"
+                href="https://gillesferrand.github.io/fr/talk/valencia/"
                 />
   </url><url>
     <loc>https://gillesferrand.github.io/fr/talk/chandra/</loc>
     <lastmod>2022-08-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-us"
                 href="https://gillesferrand.github.io/talk/chandra/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
+                hreflang="fr-fr"
                 href="https://gillesferrand.github.io/fr/talk/chandra/"
                 />
   </url><url>
@@ -84,12 +97,12 @@
     <lastmod>2022-08-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-us"
                 href="https://gillesferrand.github.io/talk/nufact/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
+                hreflang="fr-fr"
                 href="https://gillesferrand.github.io/fr/talk/nufact/"
                 />
   </url><url>
@@ -97,51 +110,25 @@
     <lastmod>2021-05-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-us"
                 href="https://gillesferrand.github.io/talk/casca/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
+                hreflang="fr-fr"
                 href="https://gillesferrand.github.io/fr/talk/casca/"
-                />
-  </url><url>
-    <loc>https://gillesferrand.github.io/fr/talk/umpa/</loc>
-    <lastmod>2021-04-21T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gillesferrand.github.io/talk/umpa/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://gillesferrand.github.io/fr/talk/umpa/"
-                />
-  </url><url>
-    <loc>https://gillesferrand.github.io/fr/talk/resceu/</loc>
-    <lastmod>2020-11-26T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gillesferrand.github.io/talk/resceu/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://gillesferrand.github.io/fr/talk/resceu/"
                 />
   </url><url>
     <loc>https://gillesferrand.github.io/fr/talk/heidelberg/</loc>
     <lastmod>2019-12-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-us"
                 href="https://gillesferrand.github.io/talk/heidelberg/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
+                hreflang="fr-fr"
                 href="https://gillesferrand.github.io/fr/talk/heidelberg/"
                 />
   </url><url>
@@ -149,12 +136,12 @@
     <lastmod>2019-08-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-us"
                 href="https://gillesferrand.github.io/tags/projects/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
+                hreflang="fr-fr"
                 href="https://gillesferrand.github.io/fr/tags/projects/"
                 />
   </url><url>
@@ -162,12 +149,12 @@
     <lastmod>2019-08-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-us"
                 href="https://gillesferrand.github.io/project/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
+                hreflang="fr-fr"
                 href="https://gillesferrand.github.io/fr/project/"
                 />
   </url><url>
@@ -175,12 +162,12 @@
     <lastmod>2019-08-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-us"
                 href="https://gillesferrand.github.io/project/sn2snr/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
+                hreflang="fr-fr"
                 href="https://gillesferrand.github.io/fr/project/sn2snr/"
                 />
   </url><url>
@@ -188,12 +175,12 @@
     <lastmod>2019-08-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-us"
                 href="https://gillesferrand.github.io/talk/lijiang/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
+                hreflang="fr-fr"
                 href="https://gillesferrand.github.io/fr/talk/lijiang/"
                 />
   </url><url>
@@ -201,12 +188,12 @@
     <lastmod>2019-06-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-us"
                 href="https://gillesferrand.github.io/talk/xmm/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
+                hreflang="fr-fr"
                 href="https://gillesferrand.github.io/fr/talk/xmm/"
                 />
   </url><url>
@@ -214,12 +201,12 @@
     <lastmod>2018-04-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-us"
                 href="https://gillesferrand.github.io/project/vr/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
+                hreflang="fr-fr"
                 href="https://gillesferrand.github.io/fr/project/vr/"
                 />
   </url><url>
@@ -227,12 +214,12 @@
     <lastmod>2017-11-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-us"
                 href="https://gillesferrand.github.io/talk/abblworkshop/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
+                hreflang="fr-fr"
                 href="https://gillesferrand.github.io/fr/talk/abblworkshop/"
                 />
   </url><url>
@@ -240,12 +227,12 @@
     <lastmod>2017-09-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-us"
                 href="https://gillesferrand.github.io/project/cirada/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
+                hreflang="fr-fr"
                 href="https://gillesferrand.github.io/fr/project/cirada/"
                 />
   </url><url>
@@ -253,12 +240,12 @@
     <lastmod>2017-09-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-us"
                 href="https://gillesferrand.github.io/tags/collab/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
+                hreflang="fr-fr"
                 href="https://gillesferrand.github.io/fr/tags/collab/"
                 />
   </url><url>
@@ -266,12 +253,12 @@
     <lastmod>2016-06-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-us"
                 href="https://gillesferrand.github.io/talk/snrodyssey/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
+                hreflang="fr-fr"
                 href="https://gillesferrand.github.io/fr/talk/snrodyssey/"
                 />
   </url><url>
@@ -279,12 +266,12 @@
     <lastmod>2015-06-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-us"
                 href="https://gillesferrand.github.io/project/cta/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
+                hreflang="fr-fr"
                 href="https://gillesferrand.github.io/fr/project/cta/"
                 />
   </url><url>
@@ -292,12 +279,12 @@
     <lastmod>2015-02-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-us"
                 href="https://gillesferrand.github.io/talk/aceartinc/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
+                hreflang="fr-fr"
                 href="https://gillesferrand.github.io/fr/talk/aceartinc/"
                 />
   </url><url>
@@ -305,12 +292,12 @@
     <lastmod>2015-02-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-us"
                 href="https://gillesferrand.github.io/tags/pub/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
+                hreflang="fr-fr"
                 href="https://gillesferrand.github.io/fr/tags/pub/"
                 />
   </url><url>
@@ -318,12 +305,12 @@
     <lastmod>2014-11-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-us"
                 href="https://gillesferrand.github.io/talk/astronight/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
+                hreflang="fr-fr"
                 href="https://gillesferrand.github.io/fr/talk/astronight/"
                 />
   </url><url>
@@ -331,12 +318,12 @@
     <lastmod>2012-11-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-us"
                 href="https://gillesferrand.github.io/project/accelrsn/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
+                hreflang="fr-fr"
                 href="https://gillesferrand.github.io/fr/project/accelrsn/"
                 />
   </url><url>
@@ -344,12 +331,12 @@
     <lastmod>2012-02-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-us"
                 href="https://gillesferrand.github.io/project/snrcat/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
+                hreflang="fr-fr"
                 href="https://gillesferrand.github.io/fr/project/snrcat/"
                 />
   </url><url>
@@ -357,84 +344,84 @@
     <lastmod>2011-08-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-us"
                 href="https://gillesferrand.github.io/talk/rasc/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
+                hreflang="fr-fr"
                 href="https://gillesferrand.github.io/fr/talk/rasc/"
                 />
   </url><url>
     <loc>https://gillesferrand.github.io/fr/authors/gilles/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-us"
                 href="https://gillesferrand.github.io/authors/gilles/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
+                hreflang="fr-fr"
                 href="https://gillesferrand.github.io/fr/authors/gilles/"
                 />
   </url><url>
     <loc>https://gillesferrand.github.io/fr/authors/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-us"
                 href="https://gillesferrand.github.io/authors/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
+                hreflang="fr-fr"
                 href="https://gillesferrand.github.io/fr/authors/"
                 />
   </url><url>
     <loc>https://gillesferrand.github.io/fr/categories/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-us"
                 href="https://gillesferrand.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
+                hreflang="fr-fr"
                 href="https://gillesferrand.github.io/fr/categories/"
                 />
   </url><url>
     <loc>https://gillesferrand.github.io/fr/post/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-us"
                 href="https://gillesferrand.github.io/post/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
+                hreflang="fr-fr"
                 href="https://gillesferrand.github.io/fr/post/"
                 />
   </url><url>
     <loc>https://gillesferrand.github.io/fr/publication_types/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-us"
                 href="https://gillesferrand.github.io/publication_types/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
+                hreflang="fr-fr"
                 href="https://gillesferrand.github.io/fr/publication_types/"
                 />
   </url><url>
     <loc>https://gillesferrand.github.io/fr/publication/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-us"
                 href="https://gillesferrand.github.io/publication/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
+                hreflang="fr-fr"
                 href="https://gillesferrand.github.io/fr/publication/"
                 />
   </url>

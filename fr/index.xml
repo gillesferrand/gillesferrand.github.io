@@ -5,12 +5,20 @@
     <link>https://gillesferrand.github.io/fr/</link>
       <atom:link href="https://gillesferrand.github.io/fr/index.xml" rel="self" type="application/rss+xml" />
     <description>Gilles Ferrand, astrophysicien</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr-fr</language><copyright>©Gilles Ferrand 2023</copyright><lastBuildDate>Mon, 05 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr-fr</language><copyright>©Gilles Ferrand 2023</copyright><lastBuildDate>Thu, 18 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://gillesferrand.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Gilles Ferrand, astrophysicien</title>
       <link>https://gillesferrand.github.io/fr/</link>
     </image>
+    
+    <item>
+      <title>&#34;Typing thermonuclear explosions from X-ray spectro-imagery of young supernova remnants&#34;</title>
+      <link>https://gillesferrand.github.io/fr/talk/resceu/</link>
+      <pubDate>Thu, 18 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://gillesferrand.github.io/fr/talk/resceu/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>&#34;From the thermonuclear supernova to the supernova remnant&#34;</title>
@@ -41,22 +49,6 @@
       <link>https://gillesferrand.github.io/fr/talk/casca/</link>
       <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
       <guid>https://gillesferrand.github.io/fr/talk/casca/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>&#34;From the thermonuclear supernova to the supernova remnant&#34;</title>
-      <link>https://gillesferrand.github.io/fr/talk/umpa/</link>
-      <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://gillesferrand.github.io/fr/talk/umpa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>&#34;From the thermonuclear supernova to the supernova remnant&#34;</title>
-      <link>https://gillesferrand.github.io/fr/talk/resceu/</link>
-      <pubDate>Thu, 26 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://gillesferrand.github.io/fr/talk/resceu/</guid>
       <description></description>
     </item>
     
