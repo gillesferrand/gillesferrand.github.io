@@ -2,6 +2,71 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://gillesferrand.github.io/fr/talk/rasc_sn1181/</loc>
+    <lastmod>2024-12-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://gillesferrand.github.io/talk/rasc_sn1181/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-fr"
+                href="https://gillesferrand.github.io/fr/talk/rasc_sn1181/"
+                />
+  </url><url>
+    <loc>https://gillesferrand.github.io/fr/</loc>
+    <lastmod>2024-12-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://gillesferrand.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-fr"
+                href="https://gillesferrand.github.io/fr/"
+                />
+  </url><url>
+    <loc>https://gillesferrand.github.io/fr/tags/pub/</loc>
+    <lastmod>2024-12-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://gillesferrand.github.io/tags/pub/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-fr"
+                href="https://gillesferrand.github.io/fr/tags/pub/"
+                />
+  </url><url>
+    <loc>https://gillesferrand.github.io/fr/talk/</loc>
+    <lastmod>2024-12-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://gillesferrand.github.io/talk/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-fr"
+                href="https://gillesferrand.github.io/fr/talk/"
+                />
+  </url><url>
+    <loc>https://gillesferrand.github.io/fr/tags/</loc>
+    <lastmod>2024-12-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://gillesferrand.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-fr"
+                href="https://gillesferrand.github.io/fr/tags/"
+                />
+  </url><url>
     <loc>https://gillesferrand.github.io/fr/talk/snrodyssey2/</loc>
     <lastmod>2024-06-11T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -15,19 +80,6 @@
                 href="https://gillesferrand.github.io/fr/talk/snrodyssey2/"
                 />
   </url><url>
-    <loc>https://gillesferrand.github.io/fr/</loc>
-    <lastmod>2024-06-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://gillesferrand.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="https://gillesferrand.github.io/fr/"
-                />
-  </url><url>
     <loc>https://gillesferrand.github.io/fr/tags/pro/</loc>
     <lastmod>2024-06-11T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -39,32 +91,6 @@
                 rel="alternate"
                 hreflang="fr-fr"
                 href="https://gillesferrand.github.io/fr/tags/pro/"
-                />
-  </url><url>
-    <loc>https://gillesferrand.github.io/fr/talk/</loc>
-    <lastmod>2024-06-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://gillesferrand.github.io/talk/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="https://gillesferrand.github.io/fr/talk/"
-                />
-  </url><url>
-    <loc>https://gillesferrand.github.io/fr/tags/</loc>
-    <lastmod>2024-06-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://gillesferrand.github.io/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="https://gillesferrand.github.io/fr/tags/"
                 />
   </url><url>
     <loc>https://gillesferrand.github.io/fr/talk/resceu/</loc>
@@ -301,19 +327,6 @@
                 href="https://gillesferrand.github.io/fr/talk/aceartinc/"
                 />
   </url><url>
-    <loc>https://gillesferrand.github.io/fr/tags/pub/</loc>
-    <lastmod>2015-02-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://gillesferrand.github.io/tags/pub/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="https://gillesferrand.github.io/fr/tags/pub/"
-                />
-  </url><url>
     <loc>https://gillesferrand.github.io/fr/talk/astronight/</loc>
     <lastmod>2014-11-20T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -353,17 +366,17 @@
                 href="https://gillesferrand.github.io/fr/project/snrcat/"
                 />
   </url><url>
-    <loc>https://gillesferrand.github.io/fr/talk/rasc/</loc>
+    <loc>https://gillesferrand.github.io/fr/talk/rasc_snrs/</loc>
     <lastmod>2011-08-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://gillesferrand.github.io/talk/rasc/"
+                href="https://gillesferrand.github.io/talk/rasc_snrs/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://gillesferrand.github.io/fr/talk/rasc/"
+                href="https://gillesferrand.github.io/fr/talk/rasc_snrs/"
                 />
   </url><url>
     <loc>https://gillesferrand.github.io/fr/authors/gilles/</loc>
