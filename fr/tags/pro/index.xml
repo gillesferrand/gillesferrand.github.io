@@ -5,12 +5,20 @@
     <link>https://gillesferrand.github.io/fr/tags/pro/</link>
       <atom:link href="https://gillesferrand.github.io/fr/tags/pro/index.xml" rel="self" type="application/rss+xml" />
     <description>pro</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr-fr</language><copyright>©Gilles Ferrand 2024</copyright><lastBuildDate>Tue, 11 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr-fr</language><copyright>©Gilles Ferrand 2025</copyright><lastBuildDate>Wed, 19 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://gillesferrand.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>pro</title>
       <link>https://gillesferrand.github.io/fr/tags/pro/</link>
     </image>
+    
+    <item>
+      <title>&#34;Typing thermonuclear explosions from observations of young supernova remnants&#34;</title>
+      <link>https://gillesferrand.github.io/fr/talk/abblworkshop2025/</link>
+      <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://gillesferrand.github.io/fr/talk/abblworkshop2025/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>&#34;Typing thermonuclear explosions from observations of young supernova remnants&#34;</title>
@@ -86,9 +94,9 @@
     
     <item>
       <title>&#34;3D simulations of young supernova remnants&#34;</title>
-      <link>https://gillesferrand.github.io/fr/talk/abblworkshop/</link>
+      <link>https://gillesferrand.github.io/fr/talk/abblworkshop2017/</link>
       <pubDate>Tue, 07 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>https://gillesferrand.github.io/fr/talk/abblworkshop/</guid>
+      <guid>https://gillesferrand.github.io/fr/talk/abblworkshop2017/</guid>
       <description></description>
     </item>
     
